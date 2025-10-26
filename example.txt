@@ -1,0 +1,13 @@
+git init (change to git repository)
+git status (check the file path state)
+git add "filename.format" (add the file to the git)
+git add . (mean the file path all data to the git)
+git commit (save the file with editor)
+git commit -m "filename" (use this line can direct save the file)
+git log (check the commit)
+git remote (check the bridge from github to git)
+git push -u "remote name" "branch name" (mean push the branch to the github repo)(-u mean if next time I don't add the "-u", the default become the "remote name" last time I writed)
+git clone "http://" (download the all file)
+
+
+git remote add origin https://github.com/mnihank/MapleStory.git
